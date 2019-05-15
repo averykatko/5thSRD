@@ -1,12 +1,16 @@
-# Adventuring Gear 
-This section describes items that have special rules or require further explanation.     
-**Acid.** As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a creature or object, treating the acid as an improvised weapon. On a hit, the target takes 2d6 acid damage.    
+<!-- # Adventuring Gear -->
+# Aventurekipo
+<!-- This section describes items that have special rules or require further explanation.      -->
+Ĉi tiu sekcio priskribas aĵojn, kiuj havas specialajn regulojn, aŭ kiuj postulas pluan eksplikon.
+<!-- **Acid.** As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a creature or object, treating the acid as an improvised weapon. On a hit, the target takes 2d6 acid damage.     -->
+**Acido.** Per ago, vi povas ŝprucigi la enhavon de ĉi tio fiolo sur estulo ene de 5 futoj de vi, aŭ ĵeti la fiolon ĝis 20 futoj, frakasante ĝin pro kolizio. Ambaŭokaze, faru distancan atakon kontraŭ estulo aŭ objekto, .. la acidon .. ...
 **Alchemist's Fire.** This sticky, adhesive fluid ignites when exposed to air. As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged attack against a creature or object, treating the alchemist's fire as an improvised weapon. On a hit, the target takes 1d4 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.    
 **Antitoxin.** A creature that drinks this vial of liquid gains advantage on saving throws against poison for 1 hour. It confers no benefit to undead or constructs.    
 **Arcane Focus.** An arcane focus is a special item--an orb, a crystal, a rod, a specially constructed staff, a wand-like length of wood, or some similar item--designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.    
 **Ball Bearings.** As an action, you can spill these tiny metal balls from their pouch to cover a level, square area that is 10 feet on a side. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall prone. A creature moving through the area at half speed doesn't need to make the save.    
 **Block and Tackle.** A set of pulleys with a cable threaded through them and a hook to attach to objects, a block and tackle allows you to hoist up to four times the weight you can normally lift.    
-**Book.** A book might contain poetry, historical accounts, information pertaining to a particular field of lore, diagrams and notes on gnomish contraptions, or just about anything else that can be represented using text or pictures. A book of spells is a spellbook (described later in this section).    
+<!-- **Book.** A book might contain poetry, historical accounts, information pertaining to a particular field of lore, diagrams and notes on gnomish contraptions, or just about anything else that can be represented using text or pictures. A book of spells is a spellbook (described later in this section).     -->
+**Libro.** Libro povas enhavi poezion, historiajn kontojn, informojn pri speciala lernobjekto, planojn kaj notojn pri gnomaj inventaĵoj, aŭ preskaŭ ion ajn alian, kio povas reprezentati per teksto aŭ bildoj. Libro da sorĉoj estas sorĉlibro (priskribita poste en ĉi tiu sekcio).
 **Caltrops.** As an action, you can spread a bag of caltrops to cover a square area that is 5 feet on a side. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving this turn and take 1 piercing damage. Taking this damage reduces the creature's walking speed by 10 feet until the creature regains at least 1 hit point. A creature moving through the area at half speed doesn't need to make the save.    
 **Candle.** For 1 hour, a candle sheds bright light in a 5-foot radius and dim light for an additional 5 feet.   
 **Case, Crossbow Bolt.** This wooden case can hold up to twenty crossbow bolts.   
@@ -19,8 +23,10 @@ This section describes items that have special rules or require further explanat
 **Fishing Tackle.** This kit includes a wooden rod, silken line, corkwood bobbers, steel hooks, lead sinkers, velvet lures, and narrow netting.   
 **Healer's Kit.** This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom (Medicine) check.   
 **Holy Symbol.** A holy symbol is a representation of a god or pantheon. It might be an amulet depicting a symbol representing a deity, the same symbol carefully engraved or inlaid as an emblem on a shield, or a tiny box holding a fragment of a sacred relic. A cleric or paladin can use a holy symbol as a spellcasting focus. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield.   
-**Holy Water.** As an action, you can splash the contents of this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. In either case, make a ranged attack against a target creature, treating the holy water as an improvised weapon. If the target is a fiend or undead, it takes 2d6 radiant damage.   
-A cleric or paladin may create holy water by performing a special ritual. The ritual takes 1 hour to perform, uses 25 gp worth of powdered silver, and requires the caster to expend a 1st-level spell slot.    
+<!-- **Holy Water.** As an action, you can splash the contents of this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. In either case, make a ranged attack against a target creature, treating the holy water as an improvised weapon. If the target is a fiend or undead, it takes 2d6 radiant damage.    
+A cleric or paladin may create holy water by performing a special ritual. The ritual takes 1 hour to perform, uses 25 gp worth of powdered silver, and requires the caster to expend a 1st-level spell slot.    -->
+**Sanktakvo.** Per ago, vi povas ŝprucigi la enhavon de ĉi tiu flakono sur estulo ene de 5 futoj de vi, aŭ ĵeti ĝin ĝis 20 futoj, frakasante ĝin pro kolizio. Ambaŭokaze, faru distancan atakon kontraŭ celestulo, ...... Si la celo estas .. aŭ malmorto, ĝi .. 2d6 ...    
+
 **Hunting Trap.** When you use your action to set it, this trap forms a saw-toothed steel ring that snaps shut when a creature steps on a pressure plate in the center. The trap is affixed by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a DC 13 Dexterity saving throw or take 1d4 piercing damage and stop moving. Thereafter, until the creature breaks free of the trap, its movement is limited by the length of the chain (typically 3 feet long). A creature can use its action to make a DC 13 Strength check, freeing itself or another creature within its reach on a success. Each failed check deals 1 piercing damage to the trapped creature.    
 **Lamp.** A lamp casts bright light in a 15-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.   
 **Lantern, Bullseye.** A bullseye lantern casts bright light in a 60-foot cone and dim light for an additional 60 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.   
@@ -161,7 +167,7 @@ A cleric or paladin may create holy water by performing a special ritual. The ri
 | Torch                        | 1 cp     | 1 lb.        |
 | Vial                         | 1 gp     | -            |
 | Waterskin                    | 2 sp     | 5 lb. (full) |
-| Whetstone                    | 1 cp     | 1 lb.        | 
+| Whetstone                    | 1 cp     | 1 lb.        |
 
 ## Container Capacity
 | Container        | Capacity                               |
